@@ -1,2 +1,2 @@
 # Meu1Programa
-Exemplo de aula Ermogenes 04/08/23
+Exemplo de aula Professor Ermogenes 04/08/23
